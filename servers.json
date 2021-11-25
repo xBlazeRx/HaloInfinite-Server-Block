@@ -1,0 +1,130 @@
+[
+  {
+	"Geography": "Africa",
+	"Region": "South Africa North",
+	"Location": "Johannesburg",
+	"Hostnames": [
+	  "pfmsqos.southafricanorth.cloudapp.azure.com"
+	  ]
+  },
+  {
+    "Geography": "Asia Pacific",
+    "Region": "East Asia",
+    "Location": "Hong Kong",
+    "Hostnames": [
+      "pfmsqos.eastasia.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Asia Pacific",
+    "Region": "Southeast Asia",
+    "Location": "Singapore",
+    "Hostnames": [
+      "pfmsqos.southeastasia.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Australia",
+    "Region": "East Australia",
+    "Location": "New South Wales",
+    "Hostnames": [
+      "pfmsqos.australiaeast.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Brazil",
+    "Region": "South Brazil",
+    "Location": "Sao Paulo State",
+    "Hostnames": [
+      "pfmsqos.brazilsouth.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "North Europe",
+    "Location": "Ireland",
+    "Hostnames": [
+      "pfmsqos.northeurope.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Europe",
+    "Region": "West Europe",
+    "Location": "Netherlands",
+    "Hostnames": [
+      "pfmsqos.westeurope.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Japan",
+    "Region": "East Japan",
+    "Location": "Tokyo, Saitama",
+    "Hostnames": [
+      "pfmsqos.japaneast.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "Japan",
+    "Region": "West Japan",
+    "Location": "Osaka",
+    "Hostnames": [
+      "pfmsqos.japanwest.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "North Central US",
+    "Location": "Illinois",
+    "Hostnames": [
+      "pfmsqos.northcentralus.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "East US",
+    "Location": "Virginia, Washington",
+    "Hostnames": [
+      "pfmsqos.eastus.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "East US 2",
+    "Location": "Virginia, Boydton",
+    "Hostnames": [
+      "pfmsqos.eastus2.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "Central US",
+    "Location": "Iowa",
+    "Hostnames": [
+      "pfmsqos.centralus.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "South Central US",
+    "Location": "Texas",
+    "Hostnames": [
+      "pfmsqos.southcentralus.cloudapp.azure.com"
+    ]
+  },
+  {
+    "Geography": "United States",
+    "Region": "West US",
+    "Location": "California, San Jose",
+    "Hostnames": [
+      "pfmsqos.westus.cloudapp.azure.com"
+    ]
+  },
+    {
+    "Geography": "United States",
+    "Region": "West US 2",
+    "Location": "Washington State",
+    "Hostnames": [
+      "pfmsqos.westus2.cloudapp.azure.com"
+    ]
+  }
+]
