@@ -3,7 +3,8 @@
 Block laggy servers that host game matches in Halo: Infinite on PC. Makes your Halo: Infinite experience *slightly* better.
 
 ![Example](https://i.imgur.com/3byZFor.png)
-### [Download](https://github.com/CodeSk3tch/HaloInfinite-Server-Block/raw/master/Halo%20Infinite%20Server%20Block.exe)
+### Download
+The application and server list file downloads can be found in Releases. You must have the server list file with the application or it will not work.
 
 Select the servers you don't want to play on and click apply changes. If you're running the game, please restart your game for the changes to take affect.
 
