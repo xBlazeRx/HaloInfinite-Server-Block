@@ -10,7 +10,7 @@ This application updates the Windows 'hosts' file (C:\Windows\System32\drivers\e
 
 This application relies on a local server list file which can be updated to keep on top of changes made to the game server addresses (they change the IP addresses sometimes). If a server you were previously blocking becomes accessible in-game again then try check for an updated server list file here; or manually edit the server list file with the changed address.
 
->***Warning: Blocking game servers may increase matchmaking search times depending on your location and the servers you block***
+>***Warning: Blocking game servers may increase matchmaking search times depending on your location and the servers you block and these changes should only be done by the Host/Fireteam Leader, if multiple people have conflicting blocks then Halo: Infinite will not be able to matchmake***
 
 ## Download
 The application and server list file downloads can be found in Releases. You must have the server list file with the application or it will not work.
